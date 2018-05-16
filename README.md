@@ -1,0 +1,2 @@
+# Delicious
+This is a dynamic website for any restaurant. Any user as well as the owner of the restaurant can easily maintain their necessary role by using this. User can check the item with offered price and then order online. owner can see those order on their personal URL hidden from the user. User Role: Check different types of item, Order online. Owner Role: Insert their available item, Edit Delete Update item, Check order list.
